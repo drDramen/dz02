@@ -7,11 +7,11 @@
 ---
 
 Уявіть себе підприємцем, маєте якусь справу і вирішили запустити тематичний веб-сайт.
-[![Доставка](https://icon-icons.com/icons2/37/PNG/32/FoodDelivery_4374.png) Доставка](#)
+
 -  Створіть моделі даних трьох веб-сторінок:
-   -  головна [Дивитись ![](arrow.png)](https://github.com/drDramen/dz02/blob/master/shop/index.txt), також цікавий варіант оформлення за допомогою MarkDown
-   -  [сторінка з інформацією про компанію та контактні дані](https://github.com/drDramen/dz02/blob/master/shop/Contacts.txt);
-   -  [сторінка опису одного з товарів чи послуги](https://github.com/drDramen/dz02/blob/master/shop/catalog-item.txt).
+   -  головна [Дивитись ![](arrow.png)](https://github.com/drDramen/dz02/blob/master/shop/index.txt), також [цікавий варіант](https://github.com/drDramen/dz02/blob/master/shop/index_example.md) оформлення за допомогою MarkDown
+   -  сторінка з інформацією про компанію та контактні дані [Дивитись ![](arrow.png)](https://github.com/drDramen/dz02/blob/master/shop/Contacts.txt);
+   -  сторінка опису одного з товарів чи послуги [Дивитись ![](arrow.png)](https://github.com/drDramen/dz02/blob/master/shop/catalog-item.txt).
 
 ---
 
